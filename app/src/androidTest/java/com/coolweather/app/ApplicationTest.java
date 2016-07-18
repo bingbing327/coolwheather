@@ -1,4 +1,4 @@
-package app.coolweather.com.coolweather;
+package com.coolweather.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
